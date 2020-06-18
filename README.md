@@ -2,7 +2,7 @@
 
 Created an interactive Facebook chatbot using Node.js Express.js. The chatbot asks a simple question to the user and also reverts back the user’s answer by sending a text or image. It also links the information to the external web source. 
 
-![GitHub Logo](/Facebook-bot.jpg)
+![Facebook Messenger bot](/Facebook_bot.jpg)
 
 * Replies with predecided messages
 * Token provided by Facebook Developers account
